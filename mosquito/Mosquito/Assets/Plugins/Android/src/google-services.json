@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "357136880805",
+    "firebase_url": "https://bugsmash-e03f3.firebaseio.com",
+    "project_id": "bugsmash-e03f3",
+    "storage_bucket": "bugsmash-e03f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357136880805:android:6d14d8a4523429b2",
+        "android_client_info": {
+          "package_name": "com.kemothstudios.bugsmash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357136880805-0en34s91tmsj44k01ka29dmo0p7sp0g3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kemothstudios.bugsmash",
+            "certificate_hash": "c7934908dd78404bfa7b3bcb01e0bd27fc6ece09"
+          }
+        },
+        {
+          "client_id": "357136880805-nu7r4rsfg4ajctarvuhlf6uf6p8c34pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmkcDmGrSKd1_9ZL-z7pe8co3-N0BmXlI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357136880805-nu7r4rsfg4ajctarvuhlf6uf6p8c34pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
